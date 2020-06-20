@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Billy View view"
+    id="192e4d89-b20d-4013-b305-cadfa3a92621">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="dc94f06c-79e6-4977-b512-b878d3b591f1">
+    <bounds
+        x="597"
+        y="346"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyInteraction"
+        href="TechnologyInteraction_8e07421b-7d04-4930-b01f-7e8fd50bb85f.xml#8e07421b-7d04-4930-b01f-7e8fd50bb85f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="8b46568b-9820-4b97-b898-fe2cf46e860c">
+    <bounds
+        x="471"
+        y="406"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_af6082db-da63-4754-baf3-2475b0b8297e.xml#af6082db-da63-4754-baf3-2475b0b8297e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="2a6a9bf0-317d-4929-812c-57b94430d3f2">
+    <bounds
+        x="404"
+        y="295"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyCollaboration"
+        href="TechnologyCollaboration_49755554-9d2f-4235-b953-660d721305f1.xml#49755554-9d2f-4235-b953-660d721305f1"/>
+  </children>
+</archimate:ArchimateDiagramModel>
